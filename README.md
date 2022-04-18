@@ -12,7 +12,7 @@ Most of the repositories (80%) are private and will probably remain so for the f
 
 Thank you for your interest in Clearwing Games
 
-![image](../../tree/main/1579035601778.jpg)
+![image](https://cdn.jsdelivr.net/gh/clearwinggames/clearwinggames/1579035601778.jpg)
 
 
 <!--
