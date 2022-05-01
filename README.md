@@ -1,7 +1,7 @@
 
 ![image](https://avatars.githubusercontent.com/u/80926717?s=400&u=d1d6774d600a3d8e4326a1f3c9abed9cbe5fb435&v=4)
 
-Hello and Welcome to the clearwinggames Github (which is very much a work in progress, much like clearwinggames itself
+Hello and Welcome to the clearwinggames Github (which is very much a work in progress, much like clearwinggames itself).
 
 To see a few playable demos of games built using CWG infrastructure, check out
 
